@@ -9,7 +9,8 @@ fun main() {
 
 fun runSimulation() {
     val greetingFunction = configureGreetingFunction()
-    println(greetingFunction("Guyal"))
+    println(greetingFunction("Johnny"))
+    println(greetingFunction("Robert"))
 }
 
 // функция со стр. 116
@@ -30,4 +31,3 @@ fun printConstructionCost(numBuildings: Int) {
 }
 
 
-// стр 114 Ссылка на функцию
